@@ -4,3 +4,6 @@
 
 ## About
 This project aims to visualize the Mandelbrot set.
+
+## Reading List
+* https://en.wikipedia.org/wiki/Mandelbrot_set
