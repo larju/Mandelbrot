@@ -7,3 +7,4 @@ This project aims to visualize the Mandelbrot set.
 
 ## Reading List
 * https://en.wikipedia.org/wiki/Mandelbrot_set
+    * Especially section ["Computer drawings"](https://en.wikipedia.org/wiki/Mandelbrot_set#Computer_drawings)
